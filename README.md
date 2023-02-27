@@ -1,2 +1,3 @@
 # FlowProfiler
-python codes to handle the vertical flow profiles of density currents.
+python codes for interpolation/extrapolation of streamwise velocity and concentration profiles of gravity currents.
+Free to modify and redistribute at your responsibility.
