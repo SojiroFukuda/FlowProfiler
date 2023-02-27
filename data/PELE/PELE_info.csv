@@ -1,5 +1,0 @@
-Exp,run,Conservative,Rhos(kgm),Rhoa(kgm),slope(tan),Bed_height,d50 (micron),Cprofile_available,densitytype,Confined,flume_wide,Init_Conc,mu,Particle_type,submarine
-BreardLube2017,B,Non-Conservative,1950,1.225,0.158,0.0555,250,TRUE,VC,Fully,0.5,-1,air,Ignimbrite,subaerial
-BreardLube2017,C,Non-Conservative,1950,1.225,0.158,0.0664,250,TRUE,VC,Fully,0.5,-1,air,Ignimbrite,subaerial
-BreardLube2017,D,Non-Conservative,1950,1.225,0.158,0.0734,250,TRUE,VC,Fully,0.5,-1,air,Ignimbrite,subaerial
-BroschLube2020,Fig6,Non-Conservative,1950,1.225,0.105,0.0375,245,TRUE,VC,Fully,0.5,-1,air,Ignimbrite,subaerial

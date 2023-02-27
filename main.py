@@ -257,11 +257,11 @@ def set_exp(exp_name: str, exp_info: str, coord_folda: str, FORMAT_PROFILES: str
         run_num = str(file_array[1]) # extract run name from the file name
         run_obj, density_type = initiate_runobj_from_meta_info(run_num,info) # import meta data from csv file
         
-        # velocity data
+        # velocity data handling
         PATH_V = str( coord_folda + os.sep + 'run_' + run_num + '_' + 'velocity' + FORMAT_PROFILES ) # path of velocity profiles
         set_velocity_profile(run_obj,PATH_V,iscm=iscm) # interpolation & extrapolation
         
-        # Concentration data
+        # Concentration data handling
         if run_obj.Cprofile_available == True: 
             PATH_C = str( coord_folda + os.sep + 'run_' + run_num + '_' + 'concentration' + FORMAT_PROFILES ) # path of concentration profiles
             set_concentration_profile(run_obj,PATH_C,density_type,iscm=iscm) # interpoaltion & extrapolation
@@ -316,7 +316,6 @@ def export_results(exps,save_dir):
     returns:
         parameter_df (pd.DataFrame): DataFrame object of the depth-averaged flow params.
     """
-    os.makedirs(save_dir+os.sep+"Summary",exist_ok=True) # Save Folda
     os.makedirs(save_dir+os.sep+"Profile_txt",exist_ok=True) # Save Folda
     os.makedirs(save_dir+os.sep+"Parameter_txt",exist_ok=True) # Save Folda
     PROFILE_PATH = save_dir+os.sep+"Profile_txt"
