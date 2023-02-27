@@ -1,0 +1,1440 @@
+Exp,run,densitytype,Bed_height,Particle_type,Init_Conc,Conservative,slope(tan),Temp,d50 (micron),Rhos(kgm),Rhoa(kgm),mu,Injection,Cprofile_available,submarine,flume_wide,n,Depositional,DepoThick(dm3),Bed Condition,Confined,IsNumerical
+Altinakar1988,SALT01-200,FD,0,Salt,1005.2,Conservative,0.027,19.5,,,1000.5,Cohesionless,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT01-400,FD,0,Salt,1005.2,Conservative,0.027,19.5,,,1000.5,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT01-800,FD,0,Salt,1005.2,Conservative,0.027,20,,,1000.5,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT02-200,FD,0,Salt,1005.1,Conservative,0.027,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT02-400,FD,0,Salt,1005.1,Conservative,0.027,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT05-200,FD,0,Salt,1007.1,Conservative,0.0296,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT05-400,FD,0,Salt,1007.1,Conservative,0.0296,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT05-800,FD,0,Salt,1007.1,Conservative,0.0296,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT06-200,FD,0,Salt,1004.1,Conservative,0.02,,,,1000.4,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT06-400,FD,0,Salt,1004.1,Conservative,0.02,,,,1000.4,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT06-800,FD,0,Salt,1004.1,Conservative,0.02,,,,1000.4,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT07-220,FD,0,Salt,1003.5,Conservative,0.02,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT07-400,FD,0,Salt,1003.5,Conservative,0.02,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT07-800,FD,0,Salt,1003.5,Conservative,0.02,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT08-200,FD,0,Salt,1007.4,Conservative,0.02,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT08-400,FD,0,Salt,1007.4,Conservative,0.02,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT08-800,FD,0,Salt,1007.4,Conservative,0.02,,,,1000.8,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT09-220,FD,0,Salt,1007.5,Conservative,0.02,,,,1000.4,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT09-400,FD,0,Salt,1007.5,Conservative,0.02,,,,1000.4,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT09-800,FD,0,Salt,1007.5,Conservative,0.02,,,,1000.4,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT10-200,FD,0,Salt,1007,Conservative,0.01,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT10-400,FD,0,Salt,1007,Conservative,0.01,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT10-800,FD,0,Salt,1007,Conservative,0.01,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT11-220,FD,0,Salt,1007.5,Conservative,0.01,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT11-400,FD,0,Salt,1007.5,Conservative,0.01,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT11-800,FD,0,Salt,1007.5,Conservative,0.01,,,,1000.6,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT12-220,FD,0,Salt,1004.6,Conservative,0.01,,,,1000.7,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT12-400,FD,0,Salt,1004.6,Conservative,0.01,,,,1000.7,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT12-800,FD,0,Salt,1004.6,Conservative,0.01,,,,1000.7,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT13-220,FD,0,Salt,1004,Conservative,0.01,,,,1000.7,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT13-400,FD,0,Salt,1004,Conservative,0.01,,,,1000.7,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,SALT13-800,FD,0,Salt,1004,Conservative,0.01,,,,1000.7,Saline,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Altinakar1988,TK0601-400,FD,0,Quartz flour,1005,Non-Conservative,0.0272,,32,2650,1000.4,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0601-800,FD,0,Quartz flour,1005,Non-Conservative,0.0272,,32,2650,1000.4,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0602-200,FD,0,Quartz flour,1004.5,Non-Conservative,0.0272,,32,2650,1000,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0602-400,FD,0,Quartz flour,1004.5,Non-Conservative,0.0272,,32,2650,1000,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0602-800,FD,0,Quartz flour,1004.5,Non-Conservative,0.0272,,32,2650,1000,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0603-200,FD,0,Quartz flour,1004,Non-Conservative,0.0272,,32,2650,1000,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0603-400,FD,0,Quartz flour,1004,Non-Conservative,0.0272,,32,2650,1000,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0603-800,FD,0,Quartz flour,1004,Non-Conservative,0.0272,,32,2650,1000,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0605-200,FD,0,Quartz flour,1004,Non-Conservative,0.0294,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0605-400,FD,0,Quartz flour,1004,Non-Conservative,0.0294,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0605-800,FD,0,Quartz flour,1004,Non-Conservative,0.0294,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0606-200,FD,0,Quartz flour,1004.6,Non-Conservative,0.0294,,32,2650,1000.6,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0606-400,FD,0,Quartz flour,1004.6,Non-Conservative,0.0294,,32,2650,1000.6,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0607-200,FD,0,Quartz flour,1003.2,Non-Conservative,0.0269,,32,2650,999.6,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0607-400,FD,0,Quartz flour,1003.2,Non-Conservative,0.0269,,32,2650,999.6,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0608-400,FD,0,Quartz flour,1003.5,Non-Conservative,0.02,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0608-800,FD,0,Quartz flour,1003.5,Non-Conservative,0.02,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0609-200,FD,0,Quartz flour,1003.2,Non-Conservative,0.02,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0609-400,FD,0,Quartz flour,1003.2,Non-Conservative,0.02,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0609-800,FD,0,Quartz flour,1003.2,Non-Conservative,0.02,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0610-220,FD,0,Quartz flour,1005,Non-Conservative,0.01,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0610-400,FD,0,Quartz flour,1005,Non-Conservative,0.01,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0610-800,FD,0,Quartz flour,1005,Non-Conservative,0.01,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0611-200,FD,0,Quartz flour,1004.8,Non-Conservative,0.01,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0611-400,FD,0,Quartz flour,1004.8,Non-Conservative,0.01,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0611-800,FD,0,Quartz flour,1004.8,Non-Conservative,0.01,,32,2650,1001,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0612-220,FD,0,Quartz flour,1004.5,Non-Conservative,0.01,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0612-400,FD,0,Quartz flour,1004.5,Non-Conservative,0.01,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK0612-800,FD,0,Quartz flour,1004.5,Non-Conservative,0.01,,32,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1301-200,FD,0,Quartz flour,1004.1,Non-Conservative,0.0294,,14,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1301-400,FD,0,Quartz flour,1004.1,Non-Conservative,0.0294,,14,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1302-200,FD,0,Quartz flour,1004,Non-Conservative,0.0294,,14,2650,1000.7,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1302-400,FD,0,Quartz flour,1004,Non-Conservative,0.0294,,14,2650,1000.7,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1303-220,FD,0,Quartz flour,1004,Non-Conservative,0.02,,14,2650,1000.6,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1303-800,FD,0,Quartz flour,1004,Non-Conservative,0.02,,14,2650,1000.6,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1305-220,FD,0,Quartz flour,1006.6,Non-Conservative,0.02,,14,2650,1000.2,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1305-400,FD,0,Quartz flour,1006.6,Non-Conservative,0.02,,14,2650,1000.2,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1305-800,FD,0,Quartz flour,1006.6,Non-Conservative,0.02,,14,2650,1000.2,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1306-200,FD,0,Quartz flour,1004.6,Non-Conservative,0.01,,14,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1306-400,FD,0,Quartz flour,1004.6,Non-Conservative,0.01,,14,2650,1000.8,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1307-220,FD,0,Quartz flour,1008.7,Non-Conservative,0.01,,14,2650,1000.9,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1307-400,FD,0,Quartz flour,1008.7,Non-Conservative,0.01,,14,2650,1000.9,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1308-220,FD,0,Quartz flour,1005,Non-Conservative,0.01,,14,2650,1000.9,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1308-400,FD,0,Quartz flour,1005,Non-Conservative,0.01,,14,2650,1000.9,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1309-220,FD,0,Quartz flour,1005.8,Non-Conservative,0.01,,14,2650,1001.1,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1309-400,FD,0,Quartz flour,1005.8,Non-Conservative,0.01,,14,2650,1001.1,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Altinakar1988,TK1309-800,FD,0,Quartz flour,1005.8,Non-Conservative,0.01,,14,2650,1001.1,Cohesionless,Injection,TRUE,subaqueous,50,0.008,Depositional,,E,Fully,FALSE
+Amy2005,1,FD,0,Glycerol,,Conservative,0.052,11.2,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,2,FD,0,Glycerol,,Conservative,0.052,10.4,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,3,FD,0,Glycerol,,Conservative,0.052,11.2,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,4,FD,0,Glycerol,,Conservative,0.052,10.1,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,5,FD,0,Glycerol,,Conservative,0.052,10.9,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,6,FD,0,Glycerol,,Conservative,0.052,11.6,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,7,FD,0,Glycerol,,Conservative,0.052,10.5,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,8,FD,0,Glycerol,,Conservative,0.052,10.7,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Amy2005,9,FD,0,Glycerol,,Conservative,0.052,11.1,,,1000,Glycerol,Injection,TRUE,subaqueous,50,0.008,,,NE,Fully,FALSE
+Cartigny2013,C09S09A,VC,0,Quartz sand,0.09,Non-Conservative,0.158,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C09S11A,VC,0,Quartz sand,0.09,Non-Conservative,0.194,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C13S11A,VC,0,Quartz sand,0.13,Non-Conservative,0.194,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C13S12N,VC,0,Quartz sand,0.13,Non-Conservative,0.213,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Non-Depositional,,E,Fully,FALSE
+Cartigny2013,C15S10A,VC,0,Quartz sand,0.15,Non-Conservative,0.176,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C15S11N,VC,0,Quartz sand,0.15,Non-Conservative,0.194,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Non-Depositional,,E,Fully,FALSE
+Cartigny2013,C17S07A,VC,0,Quartz sand,0.17,Non-Conservative,0.123,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C17S09N,VC,0,Quartz sand,0.17,Non-Conservative,0.158,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Non-Depositional,,E,Fully,FALSE
+Cartigny2013,C21S08A,VC,0,Quartz sand,0.21,Non-Conservative,0.141,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C21S09N,VC,0,Quartz sand,0.21,Non-Conservative,0.158,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Non-Depositional,,E,Fully,FALSE
+Cartigny2013,C26S07A,VC,0,Quartz sand,0.26,Non-Conservative,0.123,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Depositional,,E,Fully,FALSE
+Cartigny2013,C26S09N,VC,0,Quartz sand,0.26,Non-Conservative,0.158,,160,2650,1000,Cohesionless,Injection,FALSE,subaqueous,7,,Non-Depositional,,E,Fully,FALSE
+Eggenhuisen2019,1,VC,0,Sand,0.17,Non-Conservative,0.14,,130,2650,1000,Cohesionless,Injection,TRUE,subaqueous,21,,,,NE,Fully,FALSE
+Eggenhuisen2019,2,VC,0,Sand,0.17,Non-Conservative,0.07,,130,2650,1000,Cohesionless,Injection,TRUE,subaqueous,21,,,,NE,Fully,FALSE
+Fedele2016,f165d458,FED,0,Salt,,Conservative,0.0874,,,,1000,Saline,Injection,TRUE,subaqueous,15,,,,E,Fully,FALSE
+Fedele2016,f149d230,FED,0,Salt,,Conservative,0.1763,,,,1000,Saline,Injection,TRUE,subaqueous,15,,,,E,Fully,FALSE
+Fedele2016,f216d300,FED,0,Salt,,Conservative,0.1405,,,,1000,Saline,Injection,TRUE,subaqueous,15,,,,E,Fully,FALSE
+Fedele2016,f130d300,FED,0,Salt,,Conservative,0.1405,,,,1000,Saline,Injection,TRUE,subaqueous,15,,,,E,Fully,FALSE
+Fedele2016,f175d300,FED,0,Salt,,Conservative,0.1405,,,,1000,Saline,Injection,TRUE,subaqueous,15,,,,E,Fully,FALSE
+Hermidas2018,1,VC,0,sand&Clay,0.15,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,2,VC,0,sand&Clay,0.15,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,3,VC,0,sand&Clay,0.15,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,4,VC,0,sand&Clay,0.15,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,7,VC,0,sand&Clay,0.15,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,8,VC,0,sand&Clay,0.09,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,9,VC,0,sand&Clay,0.09,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,10,VC,0,sand&Clay,0.15,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,11,VC,0,sand&Clay,0.15,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,12,VC,0,sand&Clay,0.09,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,13,VC,0,sand&Clay,0.21,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,15,VC,0,sand&Clay,0.21,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,16,VC,0,sand&Clay,0.21,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,17,VC,0,sand&Clay,0.21,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,18,VC,0,sand&Clay,0.21,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,19,VC,0,sand&Clay,0.15,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,20,VC,0,sand&Clay,0.15,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,21,VC,0,sand&Clay,0.15,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,22,VC,0,sand&Clay,0.15,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,23,VC,0,sand&Clay,0.15,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,24,VC,0,sand&Clay,0.21,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,25,VC,0,sand&Clay,0.09,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,26,VC,0,sand&Clay,0.09,Non-Conservative,0.105,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,27,VC,0,sand&Clay,0.21,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,28,VC,0,sand&Clay,0.21,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,29,VC,0,sand&Clay,0.21,Non-Conservative,0.141,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,30,VC,0,sand&Clay,0.21,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,31,VC,0,sand&Clay,0.09,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+Hermidas2018,32,VC,0,sand&Clay,0.09,Non-Conservative,0.167,,150,2650,1000,Cohesionless,Injection,FALSE,subaqueous,22,,Depositional,,E,Fully,FALSE
+IslamImran2010,SecT1,BY,0,Silt,0.01,Non-Conservative,0.08,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT2,BY,0,Silt,0.01,Non-Conservative,0.08,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT3,BY,0,Silt,0.01,Non-Conservative,0.08,,25,2650,1000,Cohesionless,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT4,BY,0,Silt,0.01,Non-Conservative,0.08,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT5,BY,0,Silt,0.01,Non-Conservative,0.08,,25,2650,1000,Cohesionless,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT6,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT7,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT8,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT9,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT10,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT11,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecT12,BY,0,Silt,0.01,Non-Conservative,0.00000001,,25,2650,1000,Cohesionless,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS1,BY,0,Salt,0.01,Conservative,0.08,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS2,BY,0,Salt,0.01,Conservative,0.08,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS3,BY,0,Salt,0.01,Conservative,0.08,,,,1000,Saline,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS4,BY,0,Salt,0.01,Conservative,0.08,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS5,BY,0,Salt,0.01,Conservative,0.08,,,,1000,Saline,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS6,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS7,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS8,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS9,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS10,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS11,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,TRUE,subaqueous,30,,,,,Fully,FALSE
+IslamImran2010,SecS12,BY,0,Salt,0.01,Conservative,0.00000001,,,,1000,Saline,Injection,FALSE,subaqueous,30,,,,,Fully,FALSE
+Kelly2019,02ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,FALSE,subaqueous,,,,,NE,Partially,FALSE
+Kelly2019,1ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,FALSE,subaqueous,,,,,NE,Partially,FALSE
+Kelly2019,2ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,FALSE,subaqueous,,,,,NE,Partially,FALSE
+Kelly2019,N02sl,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N1sl,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N2sl,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N3sl,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N4sl,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N3p2ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N16ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N32ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N48ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Kelly2019,N64ls,FD,0,Salt,1025,Conservative,0.035,,,,1000,Saline,Injection,TRUE,subaqueous,,,,,NE,Partially,TRUE
+Koller2019,05Mq1star,FD,0,Salt,1016,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05Mq2star,FD,0,Salt,1026,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05Mq3,FD,0,Salt,1042,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05McQ1star,FD,0,Salt,1016,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05McQ2,FD,0,Salt,1031,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05McQ3,FD,0,Salt,1039,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05McQ4,FD,0,Salt,1045,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Mq1,FD,0,Salt,1016,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Mq2,FD,0,Salt,1024,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Mq3,FD,0,Salt,1041,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15McQ1,FD,0,Salt,1016,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15McQ2,FD,0,Salt,1025,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15McQ3,FD,0,Salt,1043,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05BcQ1,FD,0,Salt,1010,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05BcQ2,FD,0,Salt,1024,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05BcQ3,FD,0,Salt,1041,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Bq1,FD,0,Salt,1015,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Bq2,FD,0,Salt,1026,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Bq3,FD,0,Salt,1045,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Bq4,FD,0,Salt,1041,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15BcQ1,FD,0,Salt,1015,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15BcQ2,FD,0,Salt,1025,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15BcQ3,FD,0,Salt,1042,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05FcQ1,FD,0,Salt,1016,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05FcQ2,FD,0,Salt,1025,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,05FcQ3,FD,0,Salt,1041,Conservative,0.0087,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Fq1,FD,0,Salt,1016,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Fq2,FD,0,Salt,1026,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Fq3,FD,0,Salt,1041,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Koller2019,15Fq4,FD,0,Salt,1041,Conservative,0.0262,,,,1000,Saline,Injection,FALSE,subaqueous,20,,,,E,Fully,FALSE
+Leeuw2017,2d,VC,0,Quartz sand,0.17,Non-Conservative,0.158,,141,2650,1000,Cohesionless,Injection,TRUE,subaqueous,10,,,,E,Partially,FALSE
+Leeuw2017,1,VC,0,Quartz sand,0.17,Non-Conservative,0.194,,141,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Leeuw2017,2,VC,-0.53,Quartz sand,0.17,Non-Conservative,0.194,,141,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Leeuw2017,3,VC,-0.981,Quartz sand,0.17,Non-Conservative,0.194,,141,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Leeuw2018,1,VC,0,sand&Clay,0.17,Non-Conservative,0.194,,131,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Leeuw2018,2,VC,0,sand&Clay,0.17,Non-Conservative,0.194,,131,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Leeuw2018,3,VC,0,sand&Clay,0.17,Non-Conservative,0.194,,131,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Leeuw2018,5,VC,0,sand&Clay,0.17,Non-Conservative,0.194,,131,2650,1000,Cohesionless,Injection,FALSE,subaqueous,,,,,E,Partially,FALSE
+Michon1955,29,SW,0,Clay,2.4,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,19,SW,0,Clay,,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,20,SW,0,Clay,11.4,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,30,SW,0,Clay,3.6,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,31,SW,0,Clay,4.65,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,32,SW,0,Clay,1.54,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,33,SW,0,Clay,2.63,Non-Conservative,0.003,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,35,SW,0,Clay,2.05,Non-Conservative,0.003,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,36,SW,0,Clay,3.07,Non-Conservative,0.003,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,37,SW,0,Clay,4.6,Non-Conservative,0.003,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,46,SW,0,Clay,7.5,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,47,SW,0,Clay,7.5,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,48,SW,0,Clay,4.8,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,49,SW,0,Clay,4,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,54,SW,0,Clay,4.6,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,55,SW,0,Clay,4.8,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,57,SW,0,Clay,3.3,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,70,SW,0,Clay,6,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,71,SW,0,Clay,4.9,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,72,SW,0,Clay,3.7,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,73,SW,0,Clay,4.8,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,74,SW,0,Clay,4,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,75,SW,0,Clay,2.9,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,76,SW,0,Clay,3.4,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,77,SW,0,Clay,2.2,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,78,SW,0,Clay,4,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,79,SW,0,Clay,3.9,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,80,SW,0,Clay,3,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,81,SW,0,Clay,1.9,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,83,SW,0,Clay,9.3,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,84,SW,0,Clay,8.5,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,85,SW,0,Clay,10.5,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,86,SW,0,Clay,10,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,87,SW,0,Clay,7.7,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,88,SW,0,Clay,6,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,89,SW,0,Clay,9.5,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,90,SW,0,Clay,8.8,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,91,SW,0,Clay,7.2,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,92,SW,0,Clay,7.9,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,93,SW,0,Clay,6.3,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,23,SW,0,Clay,3,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,24,SW,0,Clay,3.62,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,25,SW,0,Clay,4.5,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,26,SW,0,Clay,3.68,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,27,SW,0,Clay,3.3,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,38,SW,0,Clay,4.8,Non-Conservative,0.003,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,39,SW,0,Clay,3.8,Non-Conservative,0.003,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,40,SW,0,Clay,8,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,42,SW,0,Clay,8.5,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,43,SW,0,Clay,7.7,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,44,SW,0,Clay,7.8,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,45,SW,0,Clay,10.5,Non-Conservative,0.036,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,50,SW,0,Clay,9.6,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,52,SW,0,Clay,4.8,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,53,SW,0,Clay,5.2,Non-Conservative,0.024,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,54-ii,SW,0,Clay,,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,58,SW,0,Clay,4.3,Non-Conservative,0.006,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,59,SW,0,Clay,7,Non-Conservative,0.015,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,60,SW,0,Clay,7,Non-Conservative,0.015,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,64,SW,0,Clay,6.7,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,65,SW,0,Clay,7.2,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,66,SW,0,Clay,7.4,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,67,SW,0,Clay,8,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Michon1955,68,SW,0,Clay,9.5,Non-Conservative,0.012,,14.6,2650,1000,Kaolinite,Injection,TRUE,subaqueous,100,,,,UNK,Fully,FALSE
+Sequeiros2010bedload,TEST-46,FED,0,Salt,,Conservative,0.05,12.25,,,1000,Saline,Injection,TRUE,subaqueous,45,0.025,,,E,Fully,FALSE
+Sequeiros2010bedload,TEST-65,FED,0,Salt,,Conservative,0.0085,15.75,,,1000,Saline,Injection,TRUE,subaqueous,45,0.025,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-2,FED,0,Salt&Plastic,,Conservative,0.05,11.5,1447,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-10,FED,0,Salt&Plastic,,Conservative,0.05,11.5,1447,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-16,FED,0,Salt&Plastic,,Conservative,0.05,11.5,1447,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-23,FED,0,Salt&Plastic,,Conservative,0.05,11.5,1447,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-31,FED,0,Salt&Plastic,,Conservative,0.05,11.25,1623,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-36,FED,0,Salt&Plastic,,Conservative,0.05,11.25,1623,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-37,FED,0,Salt&Plastic,,Conservative,0.05,11.25,1623,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-38,FED,0,Salt&Plastic,,Conservative,0.05,11.25,1623,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-40,FED,0,Salt&Plastic,,Conservative,0.05,12.25,206,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-41,FED,0,Salt&Plastic,,Conservative,0.05,12.25,206,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2010mobilebed,Experiment-42,FED,0,Salt&Plastic,,Conservative,0.05,12.25,206,1530,1000,Saline,Injection,TRUE,subaqueous,45,,,,E,Fully,FALSE
+Sequeiros2018,2-a,SW,0,Plastic,31,Non-Conservative,0.09,15.5,57,1530,998.4,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Depositional,,E,Fully,FALSE
+Sequeiros2018,2-b,SW,0,Plastic,31,Non-Conservative,0.09,15.5,57,1530,998.4,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Depositional,,E,Fully,FALSE
+Sequeiros2018,2-c,SW,0,Plastic,31,Non-Conservative,0.09,15.5,57,1530,998.4,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Depositional,,E,Fully,FALSE
+Sequeiros2018,2-d,SW,0,Plastic,31,Non-Conservative,0.09,15.5,57,1530,998.4,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Depositional,,E,Fully,FALSE
+Sequeiros2018,6-a,SW,0,Plastic,31,Non-Conservative,0.09,18.5,57,1530,998.5,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Erosional,,E,Fully,FALSE
+Sequeiros2018,6-b,SW,0,Plastic,31,Non-Conservative,0.09,18.5,57,1530,998.5,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Erosional,,E,Fully,FALSE
+Sequeiros2018,6-c,SW,0,Plastic,31,Non-Conservative,0.09,18.5,57,1530,998.5,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Erosional,,E,Fully,FALSE
+Sequeiros2018,6-d,SW,0,Plastic,31,Non-Conservative,0.09,18.5,57,1530,998.5,Cohesionless,Injection,TRUE,subaqueous,45,0.025,Erosional,,E,Fully,FALSE
+Tesakar1969,1,SW,0,Clay,460,Non-Conservative,0.1,,1.14,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,,,UNK,Fully,FALSE
+Tesakar1969,3,SW,0,Clay,350,Non-Conservative,0.1,,1.14,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.4,E,Fully,FALSE
+Tesakar1969,4,SW,0.4,Clay,353,Non-Conservative,0.1,18.4,1.14,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,6.55,E,Fully,FALSE
+Tesakar1969,5,SW,0,Clay,352,Non-Conservative,0.1,,1.3,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,3.8,E,Fully,FALSE
+Tesakar1969,6,SW,0.3,Clay,354,Non-Conservative,0.1,18.4,0.8,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,5.9,E,Fully,FALSE
+Tesakar1969,7,SW,0,Clay,305,Non-Conservative,0.1,,1.2,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.15,E,Fully,FALSE
+Tesakar1969,8,SW,0.5,Clay,307,Non-Conservative,0.1,17.6,1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,6.75,E,Fully,FALSE
+Tesakar1969,9,SW,0,Clay,238,Non-Conservative,0.1,18.5,2.1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,3.85,E,Fully,FALSE
+Tesakar1969,10,SW,0.5,Clay,237,Non-Conservative,0.1,18.6,2.2,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,7,E,Fully,FALSE
+Tesakar1969,11,SW,0.3,Clay,225,Non-Conservative,0.1,17.6,2.3,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,10.05,E,Fully,FALSE
+Tesakar1969,12,SW,0,Clay,188,Non-Conservative,0.1,12.4,1.3,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,,,UNK,Fully,FALSE
+Tesakar1969,13,SW,0,Clay,188,Non-Conservative,0.1,15.2,1.4,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,,,UNK,Fully,FALSE
+Tesakar1969,14,SW,0,Clay,178,Non-Conservative,0.1,18.4,1.1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,,,UNK,Fully,FALSE
+Tesakar1969,18,SW,0,Clay,356,Non-Conservative,0.1,18.4,1.5,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.25,E,Fully,FALSE
+Tesakar1969,19,SW,0.2,Clay,355,Non-Conservative,0.1,,1.6,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,5.05,E,Fully,FALSE
+Tesakar1969,20,SW,0,Clay,331,Non-Conservative,0.05,18,1.6,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,2.05,E,Fully,FALSE
+Tesakar1969,21,SW,0,Clay,331,Non-Conservative,0.05,18,1.3,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,2.35,E,Fully,FALSE
+Tesakar1969,22,SW,0,Clay,125,Non-Conservative,0.05,18.6,1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,2.8,E,Fully,FALSE
+Tesakar1969,23,SW,0,Clay,108,Non-Conservative,0.05,18.1,1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,2.5,E,Fully,FALSE
+Tesakar1969,24,SW,0.1,Clay,177,Non-Conservative,0.05,18.6,1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,3.55,E,Fully,FALSE
+Tesakar1969,25,SW,0.1,Clay,46,Non-Conservative,0.05,17.8,1.1,2830,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.5,E,Fully,FALSE
+Tesakar1969,26,SW,0,ClaySand,364,Non-Conservative,0.05,18.3,0.9,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,7.75,E,Fully,FALSE
+Tesakar1969,27,SW,1.1,ClaySand,351,Non-Conservative,0.05,18.4,1,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.35,E,Fully,FALSE
+Tesakar1969,29,SW,0,ClaySand,142.5,Non-Conservative,0.05,18.8,1.2,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,1.3,E,Fully,FALSE
+Tesakar1969,30,SW,0,ClaySand,143,Non-Conservative,0.05,18.2,1,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,2.65,E,Fully,FALSE
+Tesakar1969,31,SW,0,ClaySand,148,Non-Conservative,0.05,18.5,0.9,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,2.95,E,Fully,FALSE
+Tesakar1969,32,SW,0,ClaySand,144,Non-Conservative,0.05,19.2,1,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,3.5,E,Fully,FALSE
+Tesakar1969,33,SW,0,ClaySand,45,Non-Conservative,0.05,,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,3.45,E,Fully,FALSE
+Tesakar1969,34,SW,0,ClaySand,368.5,Non-Conservative,0.05,19.5,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,9.45,E,Fully,FALSE
+Tesakar1969,35,SW,1.2,ClaySand,359,Non-Conservative,0.05,19.2,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,18,E,Fully,FALSE
+Tesakar1969,37,SW,0,ClaySand,303,Non-Conservative,0.1,21.4,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,7.25,E,Fully,FALSE
+Tesakar1969,38,SW,0,ClaySand,95.5,Non-Conservative,0.1,20.7,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.6,E,Fully,FALSE
+Tesakar1969,39,SW,0,ClaySand,47,Non-Conservative,0.1,19.6,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.6,E,Fully,FALSE
+Tesakar1969,40,SW,0,ClaySand,376,Non-Conservative,0.1,19,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,4.2,E,Fully,FALSE
+Tesakar1969,41,SW,0.2,ClaySand,417,Non-Conservative,0.1,18.7,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,17,E,Fully,FALSE
+Tesakar1969,42,SW,0,ClaySand,160,Non-Conservative,0.1,19.2,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,6.75,E,Fully,FALSE
+Tesakar1969,43,SW,0,ClaySand,348,Non-Conservative,0.125,19.2,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,8.1,E,Fully,FALSE
+Tesakar1969,44,SW,0,ClaySand,140,Non-Conservative,0.125,18.8,1.765,2805.48829263249,1000,Kaolinite,Injection,TRUE,subaqueous,100,0.008,Depositional,5,E,Fully,FALSE
+Varjavand2015,f4aR,SW,0,Clay,8.2,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4aB,SW,0,Clay,10.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4aK,SW,0,Clay,13.2,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4bR,SW,0,Clay,12.34,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4bB,SW,0,Clay,10.4,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4bK,SW,0,Clay,16,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4cR,SW,0,Clay,10.8,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4cB,SW,0,Clay,11.5,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4cK,SW,0,Clay,13,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4dR,SW,0,Clay,10.4,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4dB,SW,0,Clay,11.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f4dK,SW,0,Clay,12.8,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5aR,SW,0,Clay,13,Non-Conservative,0.05,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5aB,SW,0,Clay,10.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5aK,SW,0,Clay,12.4,Non-Conservative,0.02,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5bR,SW,0,Clay,13.1,Non-Conservative,0.05,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5bB,SW,0,Clay,10.4,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5bK,SW,0,Clay,14.6,Non-Conservative,0.02,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5cR,SW,0,Clay,13.6,Non-Conservative,0.05,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5cB,SW,0,Clay,11.5,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5cK,SW,0,Clay,10.3,Non-Conservative,0.02,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5dR,SW,0,Clay,9.6,Non-Conservative,0.05,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5dB,SW,0,Clay,11.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f5dK,SW,0,Clay,12.4,Non-Conservative,0.02,,13.36,2650,1000,Kaolinite,Injection,FALSE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6aR,SW,0,Clay,10.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6aB,SW,0,Clay,10.4,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6aK,SW,0,Clay,11.5,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6aG,SW,0,Clay,11.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6bR,SW,0,Clay,10.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6bB,SW,0,Clay,12.8,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6bK,SW,0,Clay,13.6,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Varjavand2015,f6bG,SW,0,Clay,13,Non-Conservative,0.0125,,13.36,2650,1000,Kaolinite,Injection,TRUE,subaqueous,35,,,,,,FALSE
+Pohl2020,slope8,VC,0,Quartz sand,0.15,Non-Conservative,0.141,,133,2650,1000,Cohesionless,Injection,TRUE,subaqueous,20,,Depositional,,,Fully,FALSE
+Simmons2020,event01-1800,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1801,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1802,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1803,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1804,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1805,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1806,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1807,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1808,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1809,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1810,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1811,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1812,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1813,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1814,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1815,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1816,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1817,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1818,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1819,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1820,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1821,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1822,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1823,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1824,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1825,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1826,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1827,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1828,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1829,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1830,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1831,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1832,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1833,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1834,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1835,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1836,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1837,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1838,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1839,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1840,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1841,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1842,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1843,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1844,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1845,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1846,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1847,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1848,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1849,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1850,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1851,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1852,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1853,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1854,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1855,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1856,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1857,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1858,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1859,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1860,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1861,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1862,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1863,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1864,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1865,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1866,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1867,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1868,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1869,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1870,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1871,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1872,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1873,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1874,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1875,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1876,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1877,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1878,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1879,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1880,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1881,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1882,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1883,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1884,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1885,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1886,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1887,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1888,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1889,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1890,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1891,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1892,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1893,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1894,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1895,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1896,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1897,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1898,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1899,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1900,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1901,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1902,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1903,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1904,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1905,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1906,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1907,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1908,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1909,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1910,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1911,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1912,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1913,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1914,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1915,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1916,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1917,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1918,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1919,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1920,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1921,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1922,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1923,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1924,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1925,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1926,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1927,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1928,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1929,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1930,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1931,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1932,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1933,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1934,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1935,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1936,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1937,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1938,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1939,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1940,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1941,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1942,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1943,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1944,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1945,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1946,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1947,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1948,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1949,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1950,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1951,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1952,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1953,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1954,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1955,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1956,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1957,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1958,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1959,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1960,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1961,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1962,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1963,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1964,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1965,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1966,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1967,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1968,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1969,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1970,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1971,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1972,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1973,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1974,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1975,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1976,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1977,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1978,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1979,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1980,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1981,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1982,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1983,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1984,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1985,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1986,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1987,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1988,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1989,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1990,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1991,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1992,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1993,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1994,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1995,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1996,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1997,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1998,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-1999,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2000,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2001,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2002,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2003,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2004,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2005,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2006,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2007,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2008,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2009,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2010,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2011,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2012,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2013,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2014,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2015,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2016,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2017,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2018,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2019,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2020,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2021,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2022,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2023,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2024,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2025,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2026,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2027,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2028,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2029,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2030,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2031,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2032,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2033,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2034,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2035,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2036,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2037,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2038,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2039,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2040,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2041,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2042,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2043,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2044,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2045,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2046,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2047,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2048,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2049,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2050,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2051,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2052,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2053,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2054,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2055,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2056,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2057,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2058,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2059,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2060,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2061,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2062,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2063,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2064,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2065,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2066,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2067,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2068,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2069,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2070,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2071,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2072,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2073,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2074,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2075,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2076,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2077,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2078,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2079,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2080,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2081,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2082,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2083,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2084,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2085,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2086,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2087,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2088,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2089,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2090,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2091,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2092,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2093,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2094,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2095,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2096,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2097,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2098,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2099,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2100,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2101,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2102,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2103,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2104,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2105,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2106,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2107,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2108,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2109,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2110,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2111,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2112,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2113,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2114,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2115,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2116,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2117,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2118,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2119,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2120,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2121,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2122,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2123,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2124,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2125,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2126,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2127,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2128,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2129,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2130,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2131,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2132,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2133,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2134,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2135,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2136,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2137,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2138,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2139,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2140,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2141,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2142,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2143,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2144,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2145,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2146,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2147,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2148,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2149,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2150,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2151,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2152,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2153,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2154,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2155,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2156,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2157,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2158,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2159,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2160,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2161,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2162,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2163,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2164,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2165,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2166,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2167,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2168,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2169,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2170,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2171,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2172,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2173,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2174,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2175,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2176,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2177,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2178,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2179,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2180,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2181,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2182,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2183,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2184,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2185,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2186,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2187,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2188,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2189,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2190,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2191,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2192,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2193,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2194,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2195,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2196,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2197,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2198,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2199,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event01-2200,VC,0,Quartz sand,0,Non-Conservative,0.007,,11,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-300,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-301,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-302,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-303,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-304,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-305,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-306,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-307,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-308,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-309,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-310,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-311,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-312,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-313,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-314,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-315,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-316,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-317,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-318,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-319,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-320,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-321,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-322,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-323,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-324,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-325,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-326,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-327,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-328,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-329,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-330,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-331,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-332,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-333,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-334,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-335,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-336,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-337,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-338,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-339,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-340,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-341,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-342,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-343,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-344,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-345,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-346,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-347,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-348,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-349,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-350,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-351,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-352,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-353,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-354,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-355,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-356,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-357,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-358,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-359,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-360,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-361,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-362,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-363,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-364,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-365,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-366,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-367,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-368,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-369,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-370,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-371,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-372,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-373,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-374,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-375,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-376,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-377,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-378,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-379,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-380,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-381,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-382,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-383,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-384,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-385,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-386,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-387,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-388,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-389,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-390,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-391,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-392,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-393,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-394,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-395,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-396,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-397,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-398,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-399,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-400,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-401,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-402,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-403,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-404,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-405,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-406,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-407,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-408,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-409,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-410,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-411,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-412,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-413,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-414,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-415,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-416,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-417,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-418,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-419,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-420,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-421,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-422,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-423,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-424,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-425,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-426,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-427,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-428,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-429,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-430,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-431,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-432,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-433,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-434,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-435,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-436,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-437,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-438,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-439,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-440,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-441,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-442,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-443,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-444,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-445,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-446,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-447,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-448,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-449,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-450,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-451,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-452,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-453,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-454,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-455,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-456,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-457,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-458,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-459,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-460,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-461,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-462,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-463,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-464,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-465,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-466,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-467,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-468,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-469,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-470,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-471,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-472,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-473,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-474,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-475,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-476,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-477,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-478,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-479,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-480,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-481,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-482,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-483,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-484,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-485,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-486,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-487,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-488,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-489,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-490,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-491,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-492,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-493,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-494,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-495,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-496,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-497,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-498,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-499,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event04-500,VC,0,Quartz sand,0,Non-Conservative,0.007,,9.9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-500,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-501,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-502,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-503,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-504,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-505,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-506,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-507,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-508,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-509,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-510,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-511,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-512,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-513,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-514,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-515,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-516,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-517,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-518,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-519,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-520,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-521,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-522,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-523,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-524,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-525,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-526,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-527,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-528,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-529,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-530,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-531,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-532,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-533,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-534,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-535,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-536,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-537,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-538,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-539,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-540,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-541,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-542,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-543,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-544,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-545,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-546,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-547,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-548,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-549,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-550,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-551,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-552,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-553,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-554,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-555,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-556,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-557,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-558,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-559,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-560,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-561,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-562,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-563,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-564,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-565,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-566,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-567,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-568,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-569,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-570,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-571,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-572,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-573,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-574,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-575,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-576,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-577,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-578,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-579,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-580,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-581,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-582,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-583,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-584,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-585,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-586,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-587,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-588,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-589,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-590,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-591,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-592,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-593,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-594,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-595,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-596,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-597,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-598,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-599,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-600,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-601,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-602,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-603,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-604,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-605,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-606,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-607,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-608,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-609,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-610,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-611,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-612,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-613,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-614,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-615,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-616,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-617,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-618,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-619,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-620,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-621,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-622,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-623,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-624,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-625,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-626,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-627,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-628,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-629,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-630,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-631,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-632,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-633,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-634,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-635,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-636,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-637,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-638,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-639,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-640,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-641,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-642,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-643,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-644,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-645,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-646,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-647,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-648,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-649,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-650,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-651,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-652,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-653,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-654,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-655,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-656,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-657,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-658,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-659,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-660,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-661,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-662,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-663,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-664,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-665,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-666,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-667,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-668,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-669,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-670,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-671,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-672,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-673,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-674,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-675,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-676,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-677,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-678,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-679,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-680,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-681,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-682,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-683,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-684,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-685,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-686,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-687,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-688,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-689,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-690,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-691,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-692,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-693,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-694,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-695,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-696,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-697,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-698,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-699,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-700,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-701,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-702,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-703,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-704,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-705,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-706,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-707,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-708,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-709,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-710,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-711,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-712,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-713,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-714,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-715,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-716,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-717,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-718,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-719,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-720,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-721,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-722,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-723,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-724,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-725,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-726,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-727,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-728,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-729,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-730,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-731,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-732,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-733,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-734,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-735,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-736,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-737,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-738,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-739,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-740,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-741,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-742,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-743,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-744,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-745,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-746,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-747,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-748,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-749,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-750,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-751,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-752,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-753,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-754,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-755,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-756,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-757,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-758,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-759,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-760,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-761,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-762,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-763,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-764,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-765,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-766,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-767,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-768,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-769,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-770,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-771,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-772,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-773,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-774,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-775,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-776,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-777,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-778,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-779,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-780,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-781,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-782,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-783,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-784,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-785,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-786,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-787,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-788,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-789,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-790,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-791,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-792,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-793,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-794,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-795,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-796,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-797,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-798,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-799,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-800,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-801,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-802,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-803,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-804,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-805,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-806,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-807,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-808,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-809,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-810,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-811,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-812,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-813,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-814,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-815,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-816,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-817,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-818,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-819,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-820,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-821,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-822,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-823,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-824,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-825,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-826,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-827,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-828,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-829,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-830,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-831,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-832,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-833,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-834,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-835,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-836,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-837,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-838,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-839,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-840,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-841,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-842,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-843,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-844,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-845,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-846,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-847,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-848,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-849,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-850,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-851,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-852,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-853,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-854,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-855,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-856,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-857,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-858,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-859,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-860,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-861,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-862,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-863,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-864,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-865,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-866,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-867,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-868,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-869,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-870,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-871,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-872,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-873,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-874,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-875,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-876,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-877,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-878,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-879,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-880,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-881,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-882,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-883,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-884,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-885,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-886,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-887,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-888,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-889,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-890,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-891,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-892,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-893,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-894,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-895,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-896,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-897,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-898,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-899,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+Simmons2020,event05-900,VC,0,Quartz sand,0,Non-Conservative,0.007,,10.6,2650,1000,Cohesionless,Injection,TRUE,subaqueous,,,,,,,
+DeepExp2021,Run01,VC,0,Glass beads,0.15441,Non-Conservative,0.05,,40.218,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run02,VC,0,Glass beads,0.1326,Non-Conservative,0.05,,42.363,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run03,VC,0,Glass beads,0.1172,Non-Conservative,0.05,,42.015,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run04,VC,0,Glass beads,0.09952,Non-Conservative,0.05,,40.511,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run05,VC,0,Glass beads,0.08019,Non-Conservative,0.05,,43.054,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run06,VC,0,Glass beads,0.05666,Non-Conservative,0.05,,41.374,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run07,VC,0,Glass beads,0.04521,Non-Conservative,0.05,,43.089,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run08,VC,0,Glass beads,0.01729,Non-Conservative,0.05,,41.361,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run09,VC,0,Glass beads,0.01211,Non-Conservative,0.05,,43.222,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run10,VC,0,Glass beads,0.00267,Non-Conservative,0.05,,43.124,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run11,VC,0,Glass beads,0.01645,Non-Conservative,0.05,,37.939,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021,Run12,VC,0,Glass beads,0.00516,Non-Conservative,0.05,,33.272,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M03D1,VC,0,Kaolinite,0.0395,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M03D2,VC,0,Kaolinite,0.0395,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M03U1,VC,0,Kaolinite,0.0395,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M03U2,VC,0,Kaolinite,0.0395,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M04D1,VC,0,Kaolinite,0.0626,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M04D2,VC,0,Kaolinite,0.0626,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M04U1,VC,0,Kaolinite,0.0626,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M04U2,VC,0,Kaolinite,0.0626,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M05D2,VC,0,Kaolinite,0.0796,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M05U2,VC,0,Kaolinite,0.0796,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M06D2,VC,0,Kaolinite,0.0956,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M06U2,VC,0,Kaolinite,0.0956,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M07D2,VC,0,Kaolinite,0.1222,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+DeepExp2021MdV,M07U2,VC,0,Kaolinite,0.1222,Non-Conservative,0.05,,9,2600,1000,Kaolinite,Injection,TRUE,subaqueous,0.1,,,,,Fully,FALSE
+PeakallTemp,C1S1q1-30-60,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q2-30-60,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q3-30-60,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q4-30-60,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q1-30-60,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q2-30-60,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q3-30-60,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q4-30-60,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,FALSE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q1-30-60,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q2-30-60,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q3-30-60,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q4-30-60,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q1-60-90,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q2-60-90,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q3-60-90,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S1q4-60-90,FD,0,Salt,1010,Conservative,0.01,,,,999,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q1-60-90,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q2-60-90,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q3-60-90,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q4-60-90,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,FALSE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q1-60-90,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q2-60-90,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q3-60-90,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q4-60-90,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q1-10-30,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q2-10-30,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S2q4-10-30,FD,0,Salt,1010.1,Conservative,0.02,,,,1000.1,Saline,Injection,FALSE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q1-90-120,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q2-90-120,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q3-90-120,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+PeakallTemp,C1S3q4-90-120,FD,0,Salt,1010.1,Conservative,0.03,,,,999.7,Saline,Injection,TRUE,subaqueous,,,,,,Fully,FALSE
+Packman2004,run07-40,VC,0,Kaolinite,0.0113,Non-Conservative,0.01,,1.26,2650,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,,Fully,FALSE
+Packman2004,run07-140,VC,0,Kaolinite,0.0113,Non-Conservative,0.01,,1.26,2650,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,,Fully,FALSE
+Packman2004,run10-40,VC,0,Quartz flour,0.0113,Non-Conservative,0.01,,12,2600,1000,Cohesionless,Injection,TRUE,subaqueous,0.2,,,,,Fully,FALSE
+Packman2004,run10-140,VC,0,Quartz flour,0.0113,Non-Conservative,0.01,,12,2600,1000,Cohesionless,Injection,TRUE,subaqueous,0.2,,,,,Fully,FALSE
+Garcia1993,DAPER1,VC,0,Quartz sand,0.00143,Non-Conservative,0.08,,9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.3,,,,,Fully,FALSE
+Garcia1993,DAPER2,VC,0,Quartz sand,0.00133,Non-Conservative,0.08,,9,2650,1000,Cohesionless,Injection,TRUE,subaqueous,0.3,,,,,Fully,FALSE
+Farizan2019,C175,SW,0,Kaolinite,1.75,Non-Conservative,0.01,,11,2649,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,NE,Fully,FALSE
+Farizan2019,C175D,SW,0,Kaolinite,1.75,Non-Conservative,0.01,,11,2649,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,NE,Fully,FALSE
+Farizan2019,C355,SW,0,Kaolinite,3.55,Non-Conservative,0.01,,11,2649,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,NE,Fully,FALSE
+Farizan2019,C355D,SW,0,Kaolinite,3.55,Non-Conservative,0.01,,11,2649,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,NE,Fully,FALSE
+Farizan2019,C675,SW,0,Kaolinite,6.75,Non-Conservative,0.01,,11,2649,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,NE,Fully,FALSE
+Farizan2019,C675D,SW,0,Kaolinite,6.75,Non-Conservative,0.01,,11,2649,1000,Kaolinite,Injection,TRUE,subaqueous,0.2,,,,NE,Fully,FALSE
