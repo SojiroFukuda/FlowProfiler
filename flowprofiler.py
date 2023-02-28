@@ -494,45 +494,6 @@ def runs_isCprofile_available(runs,isCprofile):
     runs_VC = [run for run in runs if run.isCprofile_available == isCprofile]
     return runs_VC
 
-# PDC data management 
-
-# def load_pdcs(PROFILE_DIR: str, PARAM_DIR: str, PaperDict: dict, ftype: str='.txt') -> tuple:
-#     """
-#     Import compiled data. This method will return the list of runs, list of the names of experiments, and names of runs.
-
-#     Parameters
-#     ------
-#     PROFILE_DIR: str
-#         The path of the directory where the vertical flow profile .txt files are kept. The .txt files are created by main.export_results().
-#         Firstly, run Data_Compilation.ipynb then you should be able to find the directory data/TC/Profile_txt. Also, the folder is specified in the database.py as PROFILE_PATH.
-#     PARAM_DIR: str
-#         The path of the directory where the meta data are kept (It is data/TC/Parameter_txt). Also, the folder is specified in the database.py as PARAM_PATH.
-#     ftype: str = '.txt'
-#         The file extensnion of the files stored in PROFILE_DIR and PARAM_DIR. It is .txt by default.
-#     """
-#     print('loading profiles...')
-#     run_list = []
-#     id_exps = []
-#     id_runs = []
-#     files = os.listdir(PROFILE_DIR)
-#     print(str(len(files))+' files are detected')
-#     # num = len(files)
-#     # count = 0
-#     for file in files:
-#         index = re.search(ftype,file)
-#         if index:
-#             run = run_profiler(PROFILE_DIR + os.sep + file)
-#             run.set_id(file[0:-len(ftype)],PaperDict)
-#             run.load_parameter(PARAM_DIR + os.sep + file)
-#             run_list.append(run)
-#             id_exps.append(run.exp)
-#             id_runs.append(run.number)
-#         # count += 1
-#     print('loading completed')
-#     id_exps = list(set(id_exps))
-#     id_exps.sort()
-#     return run_list, id_exps, id_runs
-
 # == Calc method for each flow parameter == #
 
 def mu(mu_type:str,c_ave:float,rhos:float):
@@ -754,14 +715,8 @@ def Structure_Buoyancy(h,xc,yc,B_ave,rho_a):
             # pass
             print("HOGEEEEEEEEEE")
             print("xc: "+str(item+rho_a)+" rhoa: "+str(rho_a))
-    # print("B: "+str(By))
-    # print("B_ave: "+str(B_ave))/
-    # for i in range(1,len(yc)):
-    #     S += (yc[i]-yc[i-1])*((xc[i]-ra)/ra)*yc[i]
     S = trapz(By*yc,yc)
     B = S # meter
-    # if B
-    # print(B)
     return 2*B/(B_ave*h*h)
 
 def tau_star_c(tau_c,rhos,rhoa,d50):
@@ -968,8 +923,6 @@ def initial_set_concentration(x,y,bh,min_value,iscm=True,islogmode=True):
             er_index.append(i)
     x_re = np.delete(x_re,er_index)
     y_re = np.delete(y_re,er_index)
-    # print("ssss")
-    # print(x_re)
     return x_re, y_re, y_re[-1]
 
 def concentration_upper_polynomial(x,y,min_value,islogmode=True):
@@ -1100,7 +1053,6 @@ def init_TKE_measurement_points(data):
 def TKE_profiler(data):
     profile = pd.DataFrame()
     profile["x"], profile["y"] = profile_interpolate(data.x,data.y,500)
-    # profile["x"], profile["y"] = profile_interpolate_spline(data.x,data.y,500)
     return profile
 
 def init_STRESS_measurement_points(data):
@@ -1119,7 +1071,6 @@ def init_STRESS_measurement_points(data):
 def STRESS_profiler(data):
     profile = pd.DataFrame()
     profile["x"], profile["y"] = profile_interpolate(data.x,data.y,500)
-    # profile["x"], profile["y"] = profile_interpolate_spline(data.x,data.y,500)
     return profile
 
 def re_interp(data,plen,relen):
