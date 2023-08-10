@@ -9,7 +9,7 @@ PARAM_PATH = 'data/TC/Parameter_txt' # Flow Parameters
 EXPORT_DIR = 'Export' # Export directory
 ##################################
 
-def get_metaPath_TCs():
+def get_metaPath_TCs() -> None:
     """Return the paths of the folder as a tuple where the coordinates of vertical flow profiles and other flow paramters are kept.
 
     Returns:
